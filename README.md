@@ -1,4 +1,4 @@
-# AUEB Department of Management Science and Technology - Introduction to Computer Science
+# Introduction to Computer Science
 
 Introductory code AUEB's Department of Management Science and Technology class, Introduction to Computer Science.
 
